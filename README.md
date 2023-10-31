@@ -1,6 +1,9 @@
+<br/>
 
 ### 김태욱 목표 ✋😀🤚
-### To be a Game Server Developer 
+### To be a Game Server Developer  
+
+<br/>
 
 ## 오늘 할 것 ( 231031 )
 -
