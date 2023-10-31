@@ -1,5 +1,3 @@
-<br/>
-
 ### 김태욱 목표 ✋😀🤚
 ### To be a Game Server Developer  
 
