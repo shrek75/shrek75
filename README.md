@@ -3,7 +3,7 @@
 
 <br/>
 
-[![Tistory Badge](https://img.shields.io/badge/Obsidian%20Blog-555263?style=flat&logoColor=white)]("https://publish.obsidian.md/rillang/)
+[![Tistory Badge](https://img.shields.io/badge/Obsidian%20Blog-555263?style=flat&logoColor=white)](https://publish.obsidian.md/rillang)
 
 ![Shrek's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrek75&show_icons=true&theme=dark)
 
